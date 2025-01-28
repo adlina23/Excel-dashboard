@@ -1,4 +1,4 @@
-**Project Overview:**
+**Project Overview:**\n
 This interactive Bike Sales Dashboard was created using Microsoft Excel to analyze and visualize customer purchasing patterns. The dashboard provides insights into factors influencing bike purchases, such as income, age, marital status, education, and commute distance.
 
 **Key Features:**
